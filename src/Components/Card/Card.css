@@ -1,0 +1,12 @@
+.CardMain {
+  height: 220px;
+  width: 290px;
+  background-color: darkcyan;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  border-radius: 6px;
+  box-shadow: 5px 5px 2px;
+}

@@ -1,0 +1,20 @@
+.HeaderDiv {
+  height: 60px;
+  width: 100%;
+  background-color: #123456;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.LogoDiv {
+  width: 80px;
+}
+
+.ButtonDiv {
+  height: 35px;
+  width: 100px;
+  background-color: #fff;
+  font-weight: bold;
+  outline: none;
+}
